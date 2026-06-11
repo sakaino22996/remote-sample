@@ -9,7 +9,10 @@
 動作確認用
 じゃklsjdfジャsjdklふぁskdjlkhglskdjふぁkdf
 青しf
-
+説明文を追加
+このリポジトリは演習用です。
+動作確認用
+じゃklsjdfジャsjdklふぁskdjlkhglskdjふぁkdf
 おおおおおほあdっjlksjldk
 　vsこど
 8子三つ
